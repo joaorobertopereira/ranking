@@ -1,4 +1,4 @@
-package br.com.helpc
+package br.com.helpc.controller
 
 import io.micronaut.http.annotation.Controller
 import io.micronaut.http.annotation.Get
